@@ -4,7 +4,7 @@ Este projeto tem como objetivo implementar o agente de consultas da DotMed, uma 
 
 ## Dependencias
 
-- uv (curl -LsSf https://astral.sh/uv/install.sh | sh)
+- uv (powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex")
 - streamlit (uv add streamlit)
 
 # Como executar
